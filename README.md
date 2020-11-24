@@ -15,5 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+My name is **Vũ Anh** (Vu Anh)
+
+- 🔭 I’m currently a NLP Engineer in Hanoi, Vietnam
+- 👯 I’m looking to collaborate on [underthesea](https://github.com/undertheseanlp/underthesea)
+- 💬 Ask me about Vietnamese NLP, Python, Open Source
+
+
 [![rain1024's github stats](https://github-readme-stats.vercel.app/api?username=rain1024&hide=issues&show_icons=true)](https://github.com/rain1024)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rain1024&layout=compact)](https://github.com/rain1024)
