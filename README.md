@@ -19,7 +19,7 @@ My name is **Vũ Anh** (Vu Anh)
 
 - 🔭 I’m currently a *NLP Engineer* in Hanoi, Vietnam 🇻🇳
 - 👯 I’m looking to collaborate on [underthesea](https://github.com/undertheseanlp/underthesea), a suite of open source Python modules, data sets and tutorials supporting research and development in Vietnamese Natural Language Processing.
-- 💬 Ask me about #vietnamese_nlp, #python, #open_source
+- 💬 I'm interested in [#vietnamese_nlp](), [#python](), [#open_source]()
 - 📫 How to reach me: [email](anhv.ict91@gmail.com)
 
 
