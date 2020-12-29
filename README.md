@@ -1,4 +1,4 @@
-## :coffee: My name is Vu Anh and I turn coffee into code :coffee:
+## My name is Vu Anh and I turn coffee into code :coffee:
 
 ![](https://komarev.com/ghpvc/?username=rain1024)
 
